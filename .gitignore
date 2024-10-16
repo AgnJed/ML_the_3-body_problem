@@ -1,1 +1,9 @@
-#kaggle/input/3bodyproblem/*
+kaggle/input/3bodyproblem/*
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
