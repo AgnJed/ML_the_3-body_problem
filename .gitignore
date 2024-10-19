@@ -8,3 +8,5 @@ __pycache__
 *.pyz
 *.pywz
 .DS_Store
+output/csv/*
+output/plots/*
